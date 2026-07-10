@@ -1,1 +1,1 @@
-# Automated-Knife-Edge-Laser-Beam-Profiler
+# Automated Knife-Edge Laser Beam Profiler
