@@ -29,7 +29,12 @@
 
 
 https://github.com/user-attachments/assets/4db6cd97-dd47-4af8-84c1-0c3d3c2dd359
-> Note that Github limits content to 10Mb per file, so I had to use 540p quality and a shorter video that includes the essence of the experiment. In reality, the blade moved through a greater range of motion
+> Note that Github limits content to 10Mb per file, so I had to adjust the video to 540p quality. This video is also shorter to include the essence of the experiment. In reality, the blade moved through a greater range of motion and more data was collected
+
+
+[Data Collection C++ file](firmware/Esp32DataCollection.cpp)
+
+[.csv file of collected data](analysis/photoresistorData.csv)
 
 
 
