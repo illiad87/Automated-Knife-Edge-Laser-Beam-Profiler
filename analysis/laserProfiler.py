@@ -8,9 +8,9 @@ STEPS_PER_ROTATION = 2048
 
 data = np.genfromtxt("photoresistorData.csv", delimiter=",", names=True)
 
-# # values from terminal (check /firmware/Esp32DataCollection.cpp)
+# values from terminal (check /firmware/Esp32DataCollection.cpp)
 steps = data["step"]
-# # PRECONDITION: a value of 0 must be present in raw_ADC
+# PRECONDITION: a value of 0 must be present in raw_ADC
 raw_ADC = data["adc_val"]
 
 # update the length of the arrays, starting at step 40 and stop at the first ADC value of 0. this keeps our data relevant to the laser profile and irrelevant data at the beginning and end of the arrays
