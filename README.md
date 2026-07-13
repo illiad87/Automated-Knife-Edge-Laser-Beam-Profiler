@@ -17,5 +17,7 @@
   - C++ (ESP32 code for data collection)
   - Python (data analysis)
       - Numpy
+      - Matplotlib
+    
   
 
