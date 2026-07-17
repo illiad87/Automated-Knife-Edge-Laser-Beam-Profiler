@@ -2,7 +2,7 @@
 
 ## Intro
 
-### In this optoelectronics characterization experiment, I used a differentiated knife-edge method with FWHM interpolation to find the 1/e<sup>2</sup> beam diameter. I user an ESP32, a laser diode, photoresistor, stepper motor and knife edge to collect power-distance data. I later analyzed this data in Python using Numpy and Matplotlib. My calculated beam  1/e<sup>2</sup> value was 2.71mm.
+### In this optoelectronics characterization experiment, I used a differentiated knife-edge method with FWHM interpolation to find the 1/e<sup>2</sup> beam diameter. I user an ESP32, a laser diode, photoresistor, stepper motor and knife edge to collect power-distance data. I later analyzed this data in Python using Numpy and Matplotlib. My calculated beam  1/e<sup>2</sup> value was 2.76mm.
 
 ## Setup
 **Equipment**
